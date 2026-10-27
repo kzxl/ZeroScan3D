@@ -1,3 +1,13 @@
+> [!IMPORTANT]
+> ### 🏛️ REPOSITORY CONSOLIDATION NOTICE
+> **This repository has been officially consolidated into the unified [ZeroPlatform Sovereign Monorepo](https://github.com/kzxl/ZeroPlatform).**  
+> All active development, issues, pull requests, and new releases take place in the central repository:  
+> 👉 **[kzxl/ZeroPlatform/tree/master/ZeroScan3D](https://github.com/kzxl/ZeroPlatform/tree/master/ZeroScan3D)**
+> 
+> *This repository is archived and preserved for historical reference and permanent package links.*
+
+---
+
 # ZeroScan3D
 
 [![Build & Test](https://github.com/kzxl/ZeroScan3D/actions/workflows/publish-packages.yml/badge.svg)](https://github.com/kzxl/ZeroScan3D/actions)
